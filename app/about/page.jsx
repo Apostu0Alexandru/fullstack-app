@@ -1,5 +1,5 @@
 const AboutPage = () => {
-    return <div>About Page</div>
+    return <div>Click on code to see my github projects</div>
 }
 
 export default AboutPage;
